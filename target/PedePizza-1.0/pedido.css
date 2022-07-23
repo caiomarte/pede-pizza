@@ -1,0 +1,45 @@
+body {
+    background-color: green;
+}
+
+h3 {
+    margin: 1% 0 0 2%;
+}
+
+.card {
+    background-color: #F6BE00;
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    padding: 1%;
+}
+
+.form-select {
+    margin-left: 3%;
+    margin-top: .5%;
+}
+
+.form-check {
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+.form-control {
+    margin-left: 2%;
+    width: 96%;
+}
+
+.btn {
+    margin-left: 78%;
+    margin-top: .5%;
+    width: 20%;
+}
+
+#logo {
+    width: 15%;
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%);
+    margin-top: 1.5%;
+}
